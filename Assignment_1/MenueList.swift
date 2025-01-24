@@ -4,7 +4,7 @@ import SwiftUI
 
 struct ContentView: View {
     let menuItems = [
-        MenuItem(name: "Coffee", imageName: ""),
+        MenuItem(name: "Coffee", imageName: "coffee"),
         MenuItem(name: "Bagels", imageName: "bagel"),
         MenuItem(name: "Tea", imageName: "tea"),
         MenuItem(name: "Donuts", imageName: "donuts"),
